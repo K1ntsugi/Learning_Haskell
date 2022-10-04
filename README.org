@@ -1,0 +1,8 @@
+#+AUTHOR: Maximilian J. Groetsch
+#+TITLE: Learning Haskell
+
+* Introduction
+This repo documents my journey learning the Haskell programming language. As such this document is very much work in progress and acts more like a journal than a well structured lecture.
+
+Currently im trying out this Tutorial by Philipp Hagenlocher called "Haskell for Imperative Programmers"
+=> https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV
